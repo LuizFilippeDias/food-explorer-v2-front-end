@@ -8,7 +8,7 @@ export default {
     BACKGROUND_400: "#192227",
     BACKGROUND_300: "#00111A",
     BACKGROUND_200: "#000204",
-    
+
     GRADIENT_100: "#091E26",
     GRADIENT_200: "#00131C",
 

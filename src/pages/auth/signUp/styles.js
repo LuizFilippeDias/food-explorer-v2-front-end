@@ -16,7 +16,7 @@ export const Container = styled.div`
 }
 `;
 
-export const Brand =styled.div`
+export const Brand = styled.div`
     display: flex;
     justify-content: center;
     width: 100%;

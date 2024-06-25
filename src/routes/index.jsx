@@ -8,10 +8,10 @@ export function Routes() {
     const $Isadmin = user ? user.is_admin : false;
 
     const userAuthenticated = isUserAuthenticated();
-    
+
     return (
         <BrowserRouter>
-         {(user && userAuthenticated) ? <AppRoutes $Isadmin={$Isadmin} /> : <AuthRoutes />}
+            {(user && userAuthenticated) ? <AppRoutes $Isadmin={$Isadmin} /> : <AuthRoutes />}
         </BrowserRouter>
     );
 }

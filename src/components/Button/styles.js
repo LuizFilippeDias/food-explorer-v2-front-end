@@ -28,7 +28,7 @@ export const Container = styled.button`
 
         background-color:${({ theme }) => theme.COLORS.DARK_RED} ;
         border-radius: 99px;
-        padding-inline: 0.6px;
+        padding: 5.6px;
     }
 
     &:disabled{
