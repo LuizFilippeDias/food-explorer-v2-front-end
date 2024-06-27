@@ -5,10 +5,11 @@ O projeto aborda alguns pontos cruciais pedidos na avaliação, são eles:
 1. Implementação das telas de login, página principal, página de detalhes do prato, e outras conforme o layout disponibilizado no Figma.
 2. Funcionalidades para visualização de pratos, busca por nome e ingredientes, e interação com os pratos.
 3. Suporte para upload de imagens durante o cadastro dos pratos.
-    . Interface de usuário responsiva de acordo com o conceito Mobile First.
-4. Implementação de animações e transições para melhorar a experiência do usuário.
-5. Integração com a API do back-end para o consumo de dados.
-6. Documentação detalhada no README, incluindo instruções de execução do projeto e link de deploy.
+
+   . Interface de usuário responsiva de acordo com o conceito Mobile First.
+5. Implementação de animações e transições para melhorar a experiência do usuário.
+6. Integração com a API do back-end para o consumo de dados.
+7. Documentação detalhada no README, incluindo instruções de execução do projeto e link de deploy.
 
 ## Resumo da API 💻
 
@@ -51,6 +52,7 @@ Além de contar com todas as funções do usuário também terá:
 
 ## Acesso 🔑
 Para conseguir acessar a API você pode entrar clicando <a href="https://food-explorer-luiz-filippe.netlify.app/">aqui</a>. Você será redirecionado para o site onde a API está hospedada.
+
 **Obs:** Por ser uma hospedagem gratuita irá ocorrer lentidão em alguns momentos.
 
 ##
