@@ -28,7 +28,7 @@ export function SignIn() {
             </Brand>
 
             <Form>
-                <h2>Faça seu login</h2>
+                <h2>Faça login</h2>
 
                 <Section title='Email'>
                     <Input

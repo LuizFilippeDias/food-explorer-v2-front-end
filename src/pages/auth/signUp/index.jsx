@@ -87,7 +87,7 @@ export function SignUp() {
       </Brand>
 
       <Form>
-        <h2>Criar sua Conta</h2>
+        <h2>Crie sua conta</h2>
 
         <Section title='Seu nome'>
           <Input

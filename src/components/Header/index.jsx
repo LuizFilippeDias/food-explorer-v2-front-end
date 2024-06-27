@@ -94,7 +94,7 @@ export function Header({ $Isadmin, isDisabled, $ismenuOpen, setIsMenuOpen, setSe
           ) : (
             <Button
               className='orders'
-              title={`${quantityOfItemsInTheCart}`}
+              title={`Pedidos ${quantityOfItemsInTheCart}`}
               isCustomer
               ordercount={quantityOfItemsInTheCart}
               onClick={handleOrders}
