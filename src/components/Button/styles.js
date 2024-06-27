@@ -23,8 +23,8 @@ export const Container = styled.button`
 
     >span{
         position: absolute;
-        top: -0.4rem;
-        right: -0.6rem;
+        top: 1.6rem;
+        right: 2rem;
 
         background-color:${({ theme }) => theme.COLORS.DARK_RED} ;
         border-radius: 99px;
@@ -39,8 +39,10 @@ export const Container = styled.button`
         padding: 1.2rem 3.2rem;
 
         >span{
-            position: initial;
-            padding-inline: 0;
+        position: relative;
+        padding-inline: 0;
+        top: 0rem;
+        right: 2.1rem;
         }
     }
 `;
